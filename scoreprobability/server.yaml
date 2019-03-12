@@ -1,0 +1,6 @@
+mongodb:
+  host: xxxx
+  port: xxxx
+  pwd: xxxx
+  user: xxxx
+  db: xxxx

@@ -5,6 +5,7 @@ crawl_house_price.py
 Nanjing_City_house_price.csv
 nba_crawl.py
 *.pyc
+*.yaml
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
